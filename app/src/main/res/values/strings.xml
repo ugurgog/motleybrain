@@ -1,0 +1,333 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ColorfulBrains</string>
+
+    <!-- App introduction variables-->
+    <string name="DUTY_TRACE">Task Tracking</string>
+    <string name="GROUP_DUTY">Group Task Tracing</string>
+    <string name="LOCATION_DUTY">Task Type Definition</string>
+
+    <string name="DUTY_TRACE_DESC">You will be able to see the tasks assigned to you and receive notifications for unfinished tasks.</string>
+    <string name="GROUP_DUTY_DESC">You will be able to create groups for task assignments and make reminders for your group friends.</string>
+    <string name="LOCATION_DUTY_DESC">You will be able to determine the type of tasks you assign, and thus you will be able to follow them easily.</string>
+
+    <array name="tab_name">
+        <item>My Duties</item>
+        <item>Assign</item>
+        <item>Profile</item>
+    </array>
+
+    <string name="search">Search</string>
+    <string name="FACEBOOK">FACEBOOK</string>
+    <string name="CONTACTS">CONTACTS</string>
+    <string name="error">Error:</string>
+    <string name="errorUpper">ERROR</string>
+    <string name="addPersonToGroup">Add Friend to Group</string>
+    <string name="selectLeastOneFriend">You must choose at least 1 person!</string>
+    <string name="selectOneFriend">Please select a friend!</string>
+    <string name="selectOneGroup">Please select a group!</string>
+    <string name="addGroupName">Add group name</string>
+    <string name="pleaseWriteGroupName">The group name cannot be empty!</string>
+    <string name="deviceHasNoCamera">Device has no camera!</string>
+    <string name="writeGroupName">Write group name…</string>
+    <string name="defineGroupNameAndIcon">Specify group name and icon</string>
+    <string name="participant"> participants</string>
+    <string name="constantItem">item</string>
+    <string name="adminText">  Administrator  </string>
+    <string name="selectPicture">Select Picture</string>
+    <string name="openCamera">Open Camera</string>
+    <string name="openGallery">Open Gallery</string>
+    <string name="REMOVE_PHOTO">Remove photo</string>
+    <string name="EDIT">Edit</string>
+    <string name="chooseProfilePhoto">Choose a profile photo</string>
+    <string name="CHOOSE_GROUP_PHOTO">Choose a group photo</string>
+    <string name="areYouSureExitFromGroup">Are you sure you want to leave the group?</string>
+    <string name="upperYes">YES</string>
+    <string name="lowerYes">Yes</string>
+    <string name="upperNo">NO</string>
+    <string name="removeFromGroup">  Remove from the group</string>
+    <string name="createdAt">Created at:</string>
+    <string name="completedAt">Completed at:</string>
+    <string name="changeAsAdmin">Make Group Admin</string>
+    <string name="secondShort">sec</string>
+    <string name="searchGroup">Search Group</string>
+    <string name="searchContact">Search Contact</string>
+
+    <string name="writetaskdesc">Write something…</string>
+    <string name="UPDATING">Updating…</string>
+    <string name="VIEW_PENDING_REQUEST">View Pending Requests</string>
+    <string name="PHONE_NUM">Phone Number</string>
+    <string name="SELECT_COUNTRY">Select Country</string>
+    <string name="COUNTRY_NAME">Country Name</string>
+    <string name="WRITE_PHONE_NUMBER">Write phone number</string>
+    <string name="PLEASE_WRITE_VERIFICATION_CODE">Enter the 6 digit confirmation code that we send this number : </string>
+    <string name="SEND_VERIFICATION_CODE_AGAIN">Send Code Again</string>
+    <string name="CHANGE_PHONE_NUMBER">Change Phone Number</string>
+    <string name="INVALID_VERIFICATION_CODE_ENTERED">Invalid verification code entered</string>
+    <string name="VERIFY">Verify</string>
+    <string name="REMAINING_TIME">Remaining Time : </string>
+    <string name="NOT_ENTERED_VERIFY_CODE_IN_TIME">You did not enter the code within the given time. Please send the code again!</string>
+    <string name="UPDATE_IS_SUCCESSFUL">Update is Successful</string>
+    <string name="THERE_IS_NO_SEARCH_RESULT">No results found.</string>
+    <string name="TAKE_SCREENSHOT">Take screenshot</string>
+    <string name="CIRCLE_THE_PROBLEM">Take the problem round</string>
+    <string name="SCREENSHOT">Take</string>
+    <string name="searchUser">Search user…</string>
+    <string name="IN_GROUP">In Group</string>
+    <string name="REMOVE">Remove</string>
+    <string name="REMOVE_FOLLOWER_TITLE">Remove Friend?</string>
+    <string name="REMOVE_FOLLOWER_MESSAGE">Are you sure you want to remove this person from friends?</string>
+    <string name="SEARCH_FRIENDS">Search friends…</string>
+    <string name="USER_NOT_FOUND">User not found.</string>
+    <string name="GROUP_NOT_FOUND">Group not found.</string>
+    <string name="cancelSendedRequest">The friend request sent will be withdrawn. Do you confirm?</string>
+    <string name="searchUsers">Search Users</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="profile">Profile</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="giveNewName">Write New Group Name</string>
+    <string name="ok">OK</string>
+    <string name="next">Next</string>
+    <string name="close">Close</string>
+    <string name="rateus">Rate Us</string>
+    <string name="commentFailed">Install an application market</string> 
+
+    <!-- Location Settings constants-->
+    <string name="gpsSettings">GPS Settings</string>
+    <string name="gpsSettingMessage">GPS is not enabled. Click on setting to enable and get location, please start app again after turning on GPS.</string>
+    <string name="settings">Settings</string>
+
+    <!-- Share tab item constants-->
+
+    <!-- Whose for will be shared -->
+    <string name="groupsShareText">Groups</string>
+    <string name="tasksmyassigned">The tasks I have assigned</string>
+    <string name="tasksmyassignedDesc">Assignments</string>
+
+    <string name="signOut">Sign Out</string>
+    <string name="invite">Invite</string>
+    <string name="request_sended">Request sent</string>
+    <string name="PENDING_REQUESTS">Pending Requests</string>
+    <string name="THERE_IS_NO_PENDING_REQUEST">There is no pending request</string>
+    <string name="CONTACT_INVITE_MESSAGE">Do you want to follow group and friend tasks with the My Duties app? You can download the application from this link:</string>
+    <string name="INVITE_YOUR_FRIENDS">Invite Your Friends</string>
+    <string name="ADD_YOUR_FRIENDS">Add Your Friends</string>
+    <string name="ACCOUNT">Account</string>
+    <string name="CHANGE_PASSWORD">Change Password</string>
+    <string name="SUPPORT">Support</string>
+    <string name="HELP_CENTER">About App</string>
+    <string name="REPORT_PROBLEM">Report a Problem</string>
+    <string name="CONTACT_FRIENDS">Contact Friends</string>
+    <string name="VERSION">Version</string> 
+    <string name="ABOUT_APP">My Duties: If you have any questions
+        or suggestions about the application, please write to us.
+    </string>
+    <string name="authoremail">mydutiess@gmail.com</string> 
+    <string name="signInWithGoogle">Sign in with Google</string>
+    <string name="googleSignInFailed">Google sign in failed</string>
+
+    <!-- Change Password variables-->
+    <string name="CURRENT_PASSWORD">Current password</string>
+    <string name="NEW_PASSWORD">New password</string>
+    <string name="NEW_PASSWORD_AGAIN">New password, again</string>
+
+
+    <!-- Flash options-->
+
+
+    <!-- LoginActivity constants-->
+    // App fields
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create Account</string>
+    <string name="forgetPassword">Forget Password?</string>
+    <string name="register">Register</string>
+    <string name="sendLink">Send Link</string>
+    <string name="forgetPassText">We will send a link to your mail address. You can renew your password.</string>
+    <string name="rememberMe">Remember Me</string>
+
+    <!-- User edit constants constants-->
+    <string name="PERSONAL_INFORMATION">Personal Information</string>
+    <string name="NAME">Name</string>
+    <string name="PHONE">Phone</string>
+
+    <!-- Time constants-->
+    <string name="seconds">seconds</string>
+    <string name="minutes">minutes</string>
+    <string name="hours">hours</string>
+    <string name="days">days</string>
+    <string name="weeks">weeks</string>
+    <string name="months">months</string>
+    <string name="years">years</string>
+
+    //Messages-Warnings
+    <string name="UNEXPECTED_ERROR">An unexpected error has occurred!</string>
+    <string name="UNKNOWN_ERROR">Operation failed!</string>
+    <string name="EMAIL_ERR_REQUIRED">Email can not be empty!</string>
+    <string name="EMAIL_ERR_INVALID">Please type a valid email address!</string>
+    <string name="PASSWORD_ERR_REQUIRED">Password can not be empty!</string>
+    <string name="PASSWORD_ERR_LENGTH">Password length must be at least 6!</string>
+    <string name="USERNAME_ERR_REQUIRED">Username can not be empty!</string>
+    <string name="CHECK_PASSWORD_VALIDATION_VALUE">The validation field is incorrect. Check again.</string>
+    <string name="COLLISION_EXCEPTION">E-mail is already registered, please try another one!</string>
+    <string name="INVALID_CREDENTIALS">Email or password is wrong!</string>
+    <string name="INVALID_USER">Invalid email address</string>
+    <string name="REGISTERING_USER">"Registering user.."</string>
+    <string name="LOGGING_USER">"Logging in user.."</string>
+    <string name="PLEASE_WAIT">"Please wait.."</string>
+    <string name="PASSWORD_LINK_SEND_SUCCESS">Renew password link has sent to your email address.</string>
+    <string name="PASSWORD_LINK_SEND_FAIL">Fail to send link, please tyr again.</string>
+    <string name="taskAssignSuccessful">Task assignment completed.</string>
+    <string name="PASSWORD_IS_CHANGED">Password is changed</string>
+    <string name="CURRENT_PASSWORD_INCORRECT">Current password is incorrect</string>
+    <string name="CAN_YOU_SPECIFY_THE_PROBLEM">Can you specify the problem briefly?</string>
+    <string name="PROBLEM_NOTIFY_DESCRIPTION">You can help us by notifying us about the problem you have encountered or whether you want us to improve.</string>
+    <string name="REPORT_PROBLEM_OR_COMMENT">Report or comment</string>
+    <string name="GIVE_PERMISSION_TO_SEE_CONTACT_FRIENDS">You must grant access to your contacts to see your friends</string>
+    <string name="GOT_IT">GOT IT</string>
+    <string name="CHECK_YOUR_INTERNET_CONNECTION">Please check your network connection!</string>
+    <string name="TRY_AGAIN_AFTER_CHECK_YOUR_NETWORK">Try again after checking your internet connection.</string>
+    <string name="TRY_AGAIN">Try Again</string>
+    <string name="SKIP">SKIP</string>
+    <string name="FORGOT_YOUR_PASSWORD">Forgot Your Password?</string>
+    <string name="THANKS_FOR_FEEDBACK">Thank you for your feedback. We will try to take action as soon as possible.</string>
+    <string name="TODAY">Today</string>
+    <string name="YESTERDAY">Yesterday</string>
+    <string name="ACCEPT">Accept</string>
+    <string name="REJECT">Reject</string>
+
+    <string name="emptyFeed">There is no waiting task.</string>
+    <string name="there_is_no_completed_task">There is no completed task.</string>
+    <string name="there_is_no_group_task">There is no group task.</string>
+    <string name="you_dont_have_any_friend">You have no friend.</string>
+
+    <string name="loading">Loading…</string>
+    <string name="serverError">Server Error</string>
+    <string name="delete">Delete</string>
+    <string name="fixed">Fixed</string>
+
+    <string name="WRITE_YOUR_NAME">Type your name..</string>
+    <string name="WRITE_USERNAME">Type your username..</string>
+    <string name="WRITE_EMAIL">Type your email..</string>
+    <string name="TYPE_FOR_ADD_PHONE">Touch for adding phone number…</string>
+
+    <array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+
+    <!-- silinecek -->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+
+    <string name="waiting_task">Waiting</string>
+    <string name="completed_task">Completed</string>
+    <string name="group_task">Group</string>
+
+    <string name="task_completed">Completed</string>
+    <string name="call_user">Call</string>
+
+    <string name="phone_not_defined">\'s phone is not defined.</string>
+    <string name="notCallableItsYou">You\'re the one who made the assignment. You cannot make a phone call.</string>
+    <string name="see_all_tasks">See all group tasks -></string>
+    <string name="group_with_twodot">Group:</string>
+    <string name="completed_this_task">completed this task</string>
+    <string name="undefined_user">Undefined User</string>
+    <string name="friends">Friends</string>
+
+    <string name="addFriend">Add Friend</string>
+    <string name="acceptReq">Accept</string>
+    <string name="friend">Friend</string>
+
+    <string name="typeToAddText">Say something…</string>
+    <string name="phoneNotDefined">Phone info is not yet defined.</string>
+    <string name="thisTaskAssignedTo">This task assigned to</string>
+    <string name="defaultHomeSelected">The task type is default home. Click the picture to change it.</string>
+    <string name="whomorwhichgrouptask">Whom or which group will the task be assigned to? Please select.</string>
+    <string name="remind">Remind</string>
+    <string name="urgent">Urgent</string>
+    <string name="closed">Closed</string>
+    <string name="taskIsClosedAlready">This task is already closed.</string>
+    <string name="markAsUrgent">Mark as urgent</string>
+    <string name="editTaskText">Edit Text</string>
+    <string name="taskIsUrgentAlready">This task is already urgent.</string>
+    <string name="closedTaskNotMarkedUrgent">Closed tasks cannot be marked urgently.</string>
+    <string name="openTasksCouldNotBeDeleted">Tasks that are not closed cannot be deleted.</string>
+    <string name="adminLogin">Admin Page</string>
+    <string name="problems">Problems</string>
+    <string name="viewUncompletedProblems">View Incomplete Problems</string>
+    <string name="viewCompletedProblems">View Completed Problems</string>
+    <string name="chooseAFriend">Select a Friend</string>
+    <string name="chooseAGroup">Select a Group</string>
+    <string name="selectTaskType">Please Select Task Type</string>
+    <string name="selectUserOrGroupToAssignTask">Please select user or group to assign a task!</string>
+    <string name="pleaseEnterTaskDesc">Please write task description!</string>
+    <string name="there_is_no_task_I_assigned">There is no task that I have assigned to user.</string>
+    <string name="there_is_no_task_I_assigned_to_groups">I haven\'t yet assigned a task to groups.</string>
+    <string name="addFriendFirst">To create a group, you must have at least one friend!</string>
+    <string name="THERE_IS_NO_GROUP_CREATE_OR_INCLUDE">There is no group you created or included</string>
+    <string name="sureToChangeTaskText">Are you sure you want to change the task description?</string>
+    <string name="closedTaskNotEdited">This cannot be done for closed tasks.</string>
+    <string name="cannotReminded">You cannot remind for this task!</string>
+    <string name="you">You</string>
+
+    <string name="assignedTaskToYou">has assigned you a task</string>
+    <string name="assignedTaskTo">has assigned a task</string>
+    <string name="completedThisTask">completed this task</string>
+    <string name="markedThisTaskUrgent">has marked this task urgent</string>
+    <string name="letsRememberThisTask">Remember this task</string>
+    <string name="sentYouFriendRequest">has sent you a friend request</string>
+
+    <string name="task_type_home">Home</string>
+    <string name="task_type_shop">Shopping</string>
+    <string name="task_type_business">Business</string>
+    <string name="task_type_school">School</string>
+    <string name="task_type_love">Relationship</string>
+    <string name="task_type_child">Children</string>
+    <string name="task_type_pet">Pet</string>
+
+
+    <string name="AWFUL_LEVEL">Awful Level</string>
+    <string name="POOR_LEVEL">Bad Level</string>
+    <string name="NORMAL_LEVEL">Normal Level</string>
+    <string name="GOOD_LEVEL">Good Level</string>
+    <string name="SUPER_LEVEL">Super Level</string>
+    <string name="MEGA_LEVEL">Mega Level</string>
+
+
+    <string name="AWFUL_LEVEL_DESC">You got a very bad score from this game. We realize that the questions are not very easy, but you should improve yourself a little.</string>
+    <string name="POOR_LEVEL_DESC">You got a bad score from this game. But we believe it will be :) Stay tuned, we have a lot of questions to ask :)</string>
+    <string name="NORMAL_LEVEL_DESC">You have stayed at the normal level in this game, but do not worry… The progress is very good, we hope that we will see you at a mega level one day :)</string>
+    <string name="GOOD_LEVEL_DESC">You made a good game, congratulations :) You are on a fast rise. We hope this stability does not deteriorate and we will see you at a mega level in the next games :)</string>
+    <string name="SUPER_LEVEL_DESC">A super game, congratulations. You are far above average. We could not give you a gift in this game, but you are very close :) We hope you will be one of the winners in our next games.</string>
+    <string name="MEGA_LEVEL_DESC">You must be a genius. You have fascinated us with your intelligence. Serious research needs to be done on your brain :)</string>
+
+
+
+    <string name="FCM_SERVER_KEY" tools:ignore="MissingTranslation">xxxx</string>
+
+    <string name="ADMOB_APP_ID" tools:ignore="MissingTranslation">ca-app-pub-5661269339227120~3867282925</string>
+    <!--string name="ADMOB_BANNER_AD_UNIT_ID" tools:ignore="MissingTranslation">ca-app-pub-5661269339227120/8592995998</string-->
+    <string name="ADMOB_INTERSITITIAL_AD_UNIT_ID" tools:ignore="MissingTranslation">xxxx</string>
+
+
+    <!--Test-->
+    <string name="ADMOB_BANNER_AD_UNIT_ID" tools:ignore="MissingTranslation">ca-app-pub-3940256099942544/6300978111</string>
+    <!--string name="ADMOB_INTERSITITIAL_AD_UNIT_ID" tools:ignore="MissingTranslation">ca-app-pub-3940256099942544/1033173712</string>-->
+
+</resources>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorfulBrains</string>
+
+    <!-- App introduction variables-->
+    <string name="DUTY_TRACE">Görev Takibi</string>
+    <string name="GROUP_DUTY">Grup İçi Takip</string>
+    <string name="LOCATION_DUTY">Görev Tipi Tanımı</string>
+
+    <string name="DUTY_TRACE_DESC">Size atanan görevleri görebilecek ve tamamlanmayan görevler için bildirim alabileceksiniz.</string>
+    <string name="GROUP_DUTY_DESC">Görev atamaları için gruplar oluşturabilecek ve grup arkadaşlarınız için hatırlatma yapabileceksiniz.</string>
+    <string name="LOCATION_DUTY_DESC">Atadığınız görevlerin tipini belirleyebilecek ve bu sayede takibini kolay bir şekilde yapabileceksiniz.</string>
+
+    <array name="tab_name">
+        <item>Görevlerim</item>
+        <item>Görev Ata</item>
+        <item>Profil</item>
+    </array>
+
+    <string name="search">Ara</string>
+    <string name="FACEBOOK">FACEBOOK</string>
+    <string name="CONTACTS">BAĞLANTILAR</string>
+    <string name="error">Hata:</string>
+    <string name="errorUpper">HATA</string>
+    <string name="addPersonToGroup">Katılımcı Ekle</string>
+    <string name="selectLeastOneFriend">En az 1 kişi seçmelisiniz!</string>
+    <string name="selectOneFriend">Lütfen 1 arkadaşınızı seçiniz!</string>
+    <string name="selectOneGroup">Please select a group!</string>
+    <string name="addGroupName">Grup adı ekle</string>
+    <string name="pleaseWriteGroupName">Grup adı boş olamaz!</string>
+    <string name="deviceHasNoCamera">Cihazın kamerası yok!</string>
+    <string name="writeGroupName">Grup adını yazın…</string>
+    <string name="defineGroupNameAndIcon">Grup adı ve simgesi belirleyin</string>
+    <string name="participant"> katılımcı</string>
+    <string name="constantItem">adet</string>
+    <string name="adminText">  Grup Yöneticisi  </string>
+    <string name="selectPicture">Resim Seçin</string>
+    <string name="openCamera">Kamerayı Aç</string>
+    <string name="openGallery">Galeriden Seç</string>
+    <string name="REMOVE_PHOTO">Fotoğrafı kaldır</string>
+    <string name="EDIT">Düzenle</string>
+    <string name="chooseProfilePhoto">Profil fotoğrafı seçin</string>
+    <string name="CHOOSE_GROUP_PHOTO">Grup fotoğrafı seçin</string>
+    <string name="areYouSureExitFromGroup">Gruptan çıkmak istediğinize emin misiniz?</string>
+    <string name="upperYes">EVET</string>
+    <string name="lowerYes">Evet</string>
+    <string name="upperNo">HAYIR</string>
+    <string name="removeFromGroup">  Gruptan Çikar</string>
+    <string name="createdAt">Oluşturuldu:</string>
+    <string name="completedAt">Tamamlandı:</string>
+    <string name="changeAsAdmin">Admin olarak değiştir</string>
+    <string name="secondShort">sn</string>
+    <string name="writetaskdesc">Bir şeyler yazın…</string>
+    <string name="UPDATING">Güncelleniyor…</string>
+    <string name="VIEW_PENDING_REQUEST">Gelen Istekleri Görüntüle</string>
+    <string name="PHONE_NUM">Telefon Numarası</string>
+    <string name="SELECT_COUNTRY">Ülke Seç</string>
+    <string name="COUNTRY_NAME">Ülke Adı</string>
+    <string name="WRITE_PHONE_NUMBER">Telefon numarasını yazın</string>
+    <string name="PLEASE_WRITE_VERIFICATION_CODE">Şu numaraya gönderdiğimiz 6 haneli onay kodunu giriniz : </string>
+    <string name="SEND_VERIFICATION_CODE_AGAIN">Kodu Tekrar Gönder</string>
+    <string name="CHANGE_PHONE_NUMBER">Numarayı Değiştir</string>
+    <string name="INVALID_VERIFICATION_CODE_ENTERED">Hatalı kod girişi yapıldı</string>
+    <string name="VERIFY">Doğrula</string>
+    <string name="REMAINING_TIME">Kalan Süre : </string>
+    <string name="NOT_ENTERED_VERIFY_CODE_IN_TIME">Size verilen süre içinde kodu girmediniz. Lütfen tekrar kodu gönderiniz!</string>
+    <string name="UPDATE_IS_SUCCESSFUL">Güncelendi</string>
+    <string name="THERE_IS_NO_SEARCH_RESULT">Hiç bir sonuç bulunamadı.</string>
+    <string name="TAKE_SCREENSHOT">Ekran görüntüsü al</string>
+    <string name="CIRCLE_THE_PROBLEM">Sorunu daire içine al</string>
+    <string name="SCREENSHOT">Çek</string>
+    <string name="searchGroup">Grup Ara</string>
+    <string name="searchContact">Kişi Ara</string>
+
+    <string name="searchUser">Kullanıcı arayın…</string>
+    <string name="IN_GROUP">Grupta</string>
+    <string name="REMOVE">Çıkar</string>
+    <string name="REMOVE_FOLLOWER_TITLE">Arkadaşı Çıkar?</string>
+    <string name="REMOVE_FOLLOWER_MESSAGE">Bu kişiyi arkadaşlardan çıkarmak istediğinize emin misiniz?</string>
+    <string name="SEARCH_FRIENDS">Arkadaşlarda ara…</string>
+    <string name="USER_NOT_FOUND">Kullanıcı bulunamadı.</string>
+    <string name="GROUP_NOT_FOUND">Grup bulunamadı.</string>
+    <string name="cancelSendedRequest">Gönderilen arkadaşlık isteği geri çekilecek. Onaylıyor musunuz?</string>
+    <string name="searchUsers">Kullanıcı Ara</string>
+
+    <string name="profile">Profil</string>
+    <string name="editProfile">Profili Düzenle</string>
+    <string name="save">Kaydet</string>
+    <string name="cancel">İptal</string>
+    <string name="giveNewName">Yeni Grup İsmi Girin</string>
+    <string name="ok">TAMAM</string>
+    <string name="next">İleri</string>
+    <string name="close">Kapat</string>
+
+    <!-- Whose for will be shared -->
+    <string name="groupsShareText">Gruplar</string>
+    <string name="tasksmyassigned">Benim atadığım görevler</string>
+    <string name="tasksmyassignedDesc">Görevler</string>
+
+    <!-- Location Settings constants-->
+    <string name="gpsSettings">GPS Ayarları</string>
+    <string name="gpsSettingMessage">GPS etkin değil. Konumu etkinleştirmek ve almak için ayarlara tıklayın, lütfen GPS"i açtıktan sonra uygulamayı tekrar başlatın.</string>
+    <string name="settings">Ayarlar</string>
+
+    <!-- Share tab item constants-->
+
+    <!-- Time constants-->
+    <string name="seconds">saniye</string>
+    <string name="minutes">dakika</string>
+    <string name="hours">saat</string>
+    <string name="days">gün</string>
+    <string name="weeks">hafta</string>
+    <string name="months">ay</string>
+    <string name="years">yıl</string>
+
+    <string name="signOut">Çıkış yap</string>
+    <string name="invite">Davet Et</string>
+    <string name="request_sended">İstek gönderildi</string>
+    <string name="PENDING_REQUESTS">Bekleyen Istekler</string>
+    <string name="THERE_IS_NO_PENDING_REQUEST">Bekleyen isteğiniz bulunmamaktadır</string>
+    <string name="CONTACT_INVITE_MESSAGE">My Duties uygulaması ile grup ve arkadaş görevlerini takip etmek ister misin? Uygulamayı bu linkten indirebilirsin:</string>
+    <string name="INVITE_YOUR_FRIENDS">Arkadaşlarını Davet Et</string>
+    <string name="ADD_YOUR_FRIENDS">Arkadaşlarını Ekle</string>
+    <string name="ACCOUNT">Hesap</string>
+    <string name="CHANGE_PASSWORD">Şifreyi Değiştir</string>
+    <string name="SUPPORT">Destek</string>
+    <string name="HELP_CENTER">Uygulama Hakkında</string>
+    <string name="REPORT_PROBLEM">Sorun Bildir</string>
+    <string name="CONTACT_FRIENDS">Rehber Kişileri</string>
+    <string name="VERSION">Versiyon</string> 
+    <string name="ABOUT_APP">My Duties: Uygulama hakkında herhangi
+        bir sorunuz ya da öneriniz var ise lütfen bize yazın.
+    </string>
+    <string name="authoremail">mydutiess@gmail.com</string> 
+    <string name="signInWithGoogle">Google ile giriş yap</string>
+    <string name="googleSignInFailed">Google oturum açma başarısız oldu</string>
+
+    <!-- Change Password variables-->
+    <string name="CURRENT_PASSWORD">Mevcut şifre</string>
+    <string name="NEW_PASSWORD">Yeni şifre</string>
+    <string name="NEW_PASSWORD_AGAIN">Yeni şifre, tekrar</string>
+
+    <!-- LoginActivity Constants-->
+    // Uygulama alanlari
+    <string name="username">Kullanıcı Adı</string>
+    <string name="email">Email</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="createAccount">Kaydol</string>
+    <string name="forgetPassword">Şifremi unuttum?</string>
+    <string name="register">Kaydol</string>
+    <string name="sendLink">Link Gönder</string>
+    <string name="forgetPassText">Mail adresinize göndereceğimiz link ile şifrenizi sıfırlayabilirsiniz.</string>
+    <string name="rememberMe">Beni Hatırla</string>
+
+    <!-- User edit constants constants-->
+    <string name="PERSONAL_INFORMATION">Kişisel Bilgilerim</string>
+    <string name="NAME">İsim</string>
+    <string name="PHONE">Telefon</string>
+
+    // Mesajlar-Uyarılar
+    <string name="UNEXPECTED_ERROR">Beklenmeyen bir hata oluştu!</string>
+    <string name="UNKNOWN_ERROR">İşlem tamamlanamadı!</string>
+    <string name="EMAIL_ERR_REQUIRED">Email boş olamaz!</string>
+    <string name="EMAIL_ERR_INVALID">Geçerli bir email adresi giriniz</string>
+    <string name="PASSWORD_ERR_REQUIRED">Şifre boş olamaz!</string>
+    <string name="PASSWORD_ERR_LENGTH">Şifre en az 6 karakter olmalıdır!</string>
+    <string name="USERNAME_ERR_REQUIRED">Kullanıcı adı boş olamaz!</string>
+    <string name="CHECK_PASSWORD_VALIDATION_VALUE">Doğrulama alanı hatali. Tekrar kontrol ediniz.</string>
+    <string name="COLLISION_EXCEPTION">E-mail adresi kayıtlı. Lütfen başka e-mail adresi giriniz.</string>
+    <string name="INVALID_CREDENTIALS">Email veya şifre yanlış..</string>
+    <string name="INVALID_USER">Email adresi tanımlı değil..</string>
+    <string name="REGISTERING_USER">"Hesap oluşturuluyor.."</string>
+    <string name="LOGGING_USER">"Giriş yapılıyor.."</string>
+    <string name="PLEASE_WAIT">"Lütfen bekleyiniz.."</string>
+    <string name="PASSWORD_LINK_SEND_SUCCESS">Şifre sıfırlama linki e-mail adresinize gönderildi.</string>
+    <string name="PASSWORD_LINK_SEND_FAIL">Şifre gönderme başarısız, lütfen tekrar deneyiniz.</string>
+    <string name="taskAssignSuccessful">Task assignment completed.</string>
+    <string name="PASSWORD_IS_CHANGED">Şifre değiştirildi</string>
+    <string name="CURRENT_PASSWORD_INCORRECT">Mevcut şifre hatalı</string>
+    <string name="CAN_YOU_SPECIFY_THE_PROBLEM">Problemi kısaca belirtebilir misiniz?</string>
+    <string name="PROBLEM_NOTIFY_DESCRIPTION">Karşılaşmış olduğunuz problemi ya da geliştirmemizi istediklerinizi bildirerek bize yardımcı olabilirsiniz.</string>
+    <string name="REPORT_PROBLEM_OR_COMMENT">Sorun Bildir</string>
+    <string name="serverError">Teknik Hata !</string>
+    <string name="GIVE_PERMISSION_TO_SEE_CONTACT_FRIENDS">Arkadaşlarınızı görmek için kişilere erişim izni vermelisiniz</string>
+    <string name="GOT_IT">ANLADIM</string>
+    <string name="CHECK_YOUR_INTERNET_CONNECTION">Lütfen internet bağlantınızı kontrol ediniz!</string>
+    <string name="TRY_AGAIN_AFTER_CHECK_YOUR_NETWORK">Internet baglantınızı kontrol ettikten sonra tekrar deneyiniz.</string>
+    <string name="TRY_AGAIN">Tekrar Deneyin</string>
+    <string name="SKIP">GEÇ</string>
+    <string name="FORGOT_YOUR_PASSWORD">Şifreni mi unuttun?</string>
+    <string name="THANKS_FOR_FEEDBACK">Geri bildiriminiz için teşekkür ederiz. En kısa sürede aksiyon almaya çalışacağız.</string>
+    <string name="TODAY">Bugün</string>
+    <string name="YESTERDAY">Dün</string>
+    <string name="ACCEPT">Onayla</string>
+    <string name="REJECT">Reddet</string>
+
+    <string name="emptyFeed">Henüz size atanan bir görev bulunmuyor..</string>
+    <string name="there_is_no_completed_task">Tamamlanan göreviniz bulunmuyor..</string>
+    <string name="there_is_no_group_task">Grup göreviniz bulunmuyor.</string>
+    <string name="you_dont_have_any_friend">Henüz arkadaşınız bulunmuyor.</string>
+
+    <string name="loading">Yükleniyor…</string>
+    <string name="delete">Sil</string>
+    <string name="fixed">Fixed</string>
+    <string name="rateus">Bizi Değerlendir</string>
+    <string name="commentFailed">Google Play kurulu değil</string><![CDATA[ 
+
+    ]]>
+    <string name="WRITE_YOUR_NAME">İsim yazın..</string>
+    <string name="WRITE_USERNAME">Kullanıcı adını yazın..</string>
+    <string name="WRITE_EMAIL">Email adresinizi yazın..</string>
+    <string name="TYPE_FOR_ADD_PHONE">Tel no eklemek için dokunun…</string>
+
+    <array name="months">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+    </array>
+
+    <!-- Exception mesajları -->
+
+    <string name="waiting_task">Bekleyen</string>
+    <string name="completed_task">Tamamlanan</string>
+    <string name="group_task">Grup</string>
+
+    <string name="task_completed">Tamamlandı</string>
+    <string name="call_user">Ara</string>
+
+    <string name="phone_not_defined">\'nın telefonu tanımlı değil.</string>
+    <string name="notCallableItsYou">Görev atamasını yapan sizsiniz. Telefon araması yapamazsınız.</string>
+    <string name="see_all_tasks">Tüm grup görevlerini gör</string>
+    <string name="group_with_twodot">Grup:</string>
+    <string name="completed_this_task">bu görevi tamamladı</string>
+    <string name="undefined_user">Tanımsız Kullanıcı</string>
+    <string name="friends">Arkadaşlar</string>
+
+    <string name="addFriend">Ekle</string>
+    <string name="acceptReq">Kabul Et</string>
+    <string name="friend">Arkadaş</string>
+
+    <string name="typeToAddText">Bir şeyler yaz…</string>
+    <string name="phoneNotDefined">Telefon bilgisi henüz tanımlanmadı.</string>
+    <string name="thisTaskAssignedTo">Bu görev şu kişiye atandı</string>
+    <string name="defaultHomeSelected">Görev tipi varsayılan Ev\'dir. Değiştirmek için resme tıklayın.</string>
+    <string name="whomorwhichgrouptask">Görev kime ya da hangi gruba atanacak?. Lütfen seçiniz.</string>
+    <string name="remind">Hatırlat</string>
+    <string name="urgent">Acil</string>
+    <string name="closed">Kapalı</string>
+    <string name="taskIsClosedAlready">Bu görev zaten kapatılmış.</string>
+    <string name="markAsUrgent">Acil yap</string>
+    <string name="editTaskText">Açıklamayı Düzenle</string>
+    <string name="taskIsUrgentAlready">Bu görev zaten acil.</string>
+    <string name="closedTaskNotMarkedUrgent">Kapalı görevler acil işaretlenemez.</string>
+    <string name="openTasksCouldNotBeDeleted">Kapanmayan görevler silinemez.</string>
+    <string name="adminLogin">Admin Sayfası</string>
+    <string name="problems">Problemler</string>
+    <string name="viewUncompletedProblems">Bekleyen Problemleri Gör</string>
+    <string name="viewCompletedProblems">Tamamlanmış Problemleri Gör</string>
+    <string name="chooseAFriend">Bir Arkadaş Seçin</string>
+    <string name="chooseAGroup">Bir Grup Seçin</string>
+    <string name="selectTaskType">Lütfen Görevin Tipini Seçiniz</string>
+    <string name="selectUserOrGroupToAssignTask">Görev ataması için lütfen kullanıcı ya da grup seçin!</string>
+    <string name="pleaseEnterTaskDesc">Lütfen görev açıkmasını yazın!</string>
+    <string name="there_is_no_task_I_assigned">Benim atadığım bir görev henüz bulunmuyor.</string>
+    <string name="there_is_no_task_I_assigned_to_groups">Henüz gruplara atadığım bir görev bulunmuyor.</string>
+    <string name="addFriendFirst">Grup oluşturmak için önce arkadaş edinmelisiniz!</string>
+    <string name="THERE_IS_NO_GROUP_CREATE_OR_INCLUDE">Oluşturduğunuz veya dahil olduğunuz bir grup bulunmamaktadır</string>
+    <string name="sureToChangeTaskText">Görev açıklamasını değiştirmek istediğinize emin misiniz?</string>
+    <string name="closedTaskNotEdited">Kapalı görevler için bu işlem yapılamaz.</string>
+    <string name="cannotReminded">Bu görev için hatırlatma yapılamaz!</string>
+    <string name="you">Sen</string>
+
+    <string name="assignedTaskToYou">size bir görev atadı</string>
+    <string name="assignedTaskTo">bu gruba bir görev atadı</string>
+    <string name="completedThisTask">bu görevi tamamladı</string>
+    <string name="markedThisTaskUrgent">bu görevi acil işaretledi</string>
+    <string name="letsRememberThisTask">Bu görevi hatırla</string>
+    <string name="sentYouFriendRequest">sana arkadaşlık isteği gönderdi</string>
+
+    <string name="task_type_home">Ev</string>
+    <string name="task_type_shop">Market</string>
+    <string name="task_type_business">İş</string>
+    <string name="task_type_school">Okul</string>
+    <string name="task_type_love">İlişki</string>
+    <string name="task_type_child">Çocuklar</string>
+    <string name="task_type_pet">Evcil Hayvan</string>
+
+    <string name="AWFUL_LEVEL">Çok Kötü Seviye</string>
+    <string name="POOR_LEVEL">Kötü</string>
+    <string name="NORMAL_LEVEL">Normal Seviye</string>
+    <string name="GOOD_LEVEL">İyi Seviye</string>
+    <string name="SUPER_LEVEL">Süper Seviye</string>
+    <string name="MEGA_LEVEL">Mega Seviye</string>
+
+
+    <string name="AWFUL_LEVEL_DESC">Bu oyundan çok kötü bir skor elde ettiniz. Soruların çok kolay olmadığının farkındayız ama siz de kendinizi biraz geliştirmelisiniz.</string>
+    <string name="POOR_LEVEL_DESC">Bu oyundan kötü bir skor elde ettiniz. Ama olacak biz inanıyoruz :) Bizi takipte kalın, soracak çok sorumuz var :)</string>
+    <string name="NORMAL_LEVEL_DESC">Bu oyunda normal seviyede kaldınız ama üzülmeyin… Gidişat çok iyi, umuyoruz ki sizi de bir gün mega seviye de göreceğiz :) </string>
+    <string name="GOOD_LEVEL_DESC">İyi bir oyun çıkardınız, tebrik ederiz :) Hızlı bir yükseliştesiniz. Umarız bu istikrar bozulmaz ve sonraki oyunlarda sizi mega seviyede görürüz :)</string>
+    <string name="SUPER_LEVEL_DESC">Süper bir oyun, tebrikler. Ortalamanın çok üstündesiniz. Size bu oyunda hediye veremedik ama çok yaklaştınız :) Umarız bir sonraki oyunlarımızda heidye kazananlardan biri de siz olursunuz.</string>
+    <string name="MEGA_LEVEL_DESC">Siz bir dahi olmalısınız. Zekanızla bizi adeta büyülediniz. Beyniniz üzerinde ciddi araştırmalar yapılması gerekiyor :)</string>
+</resources>
