@@ -3,7 +3,7 @@ package com.uren.motleybrain.Constants
 import android.content.Context
 import com.uren.motleybrain.R
 
-enum class BrainCategoryEnum private constructor(
+enum class BrainCategoryEnum private constructor(  
     val id: Int,
     val levelTitle: Int,
     val levelDesc: Int
